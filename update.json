@@ -3,10 +3,10 @@
   "versionName": "0.1.4",
   "apkUrl": "https://raw.githubusercontent.com/Risasc01-pl/kosmiczna-galaktyka/main/Kosmiczna_Galaktyka_Online_v0.1.4.apk",
   "notes": [
-    "Avatary Jedi otrzymały wyraźne niebieskie miecze świetlne.",
-    "Tworzenie postaci nie może już blokować aplikacji bez końca.",
-    "Dodano limit czasu, czytelny błąd i przycisk przerwania zapisu."
+    "Naprawiono przejście z tworzenia postaci bezpośrednio na mapę gry.",
+    "Naprawiono otwieranie wcześniej utworzonych postaci z hangaru.",
+    "Przycisk Przerwij odblokowuje ekran niezależnie od odpowiedzi sieci."
   ],
   "required": false,
-  "sha256": "10b65fd7974bc7d7c12cfb2c7a0fc108f4f7d3d2b213ad8afbd2fbe85c587aa9"
+  "sha256": "11725908b6d0a11356c23e135fd122695d62dac8115ce3baf6e04df6920cf185"
 }
