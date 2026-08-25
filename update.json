@@ -1,12 +1,14 @@
 {
-  "versionCode": 5,
-  "versionName": "0.1.4",
-  "apkUrl": "https://raw.githubusercontent.com/Risasc01-pl/kosmiczna-galaktyka/main/Kosmiczna_Galaktyka_Online_v0.1.4.apk",
+  "versionCode": 6,
+  "versionName": "0.1.5",
+  "apkUrl": "https://raw.githubusercontent.com/Risasc01-pl/kosmiczna-galaktyka/main/Kosmiczna_Galaktyka_Online_v0.1.5.apk",
   "notes": [
-    "Naprawiono przejście z tworzenia postaci bezpośrednio na mapę gry.",
-    "Naprawiono otwieranie wcześniej utworzonych postaci z hangaru.",
-    "Przycisk Przerwij odblokowuje ekran niezależnie od odpowiedzi sieci."
+    "Dodano Siłę, Wytrzymałość, Siłę woli, Szybkość oraz wyliczaną Moc Galaktyczną.",
+    "Dodano osobną chakrę i aktywne techniki zależne od ścieżki postaci.",
+    "Dodano walkę turową oraz szybką walkę przy przewadze 25% Mocy Galaktycznej.",
+    "Dodano 12 miejsc na ekwipunek, plecak, pięć rzadkości i przedmioty z potworów oraz bossów.",
+    "Dotychczasowe postacie są automatycznie przenoszone do nowego systemu."
   ],
   "required": false,
-  "sha256": "11725908b6d0a11356c23e135fd122695d62dac8115ce3baf6e04df6920cf185"
+  "sha256": "14976aa8df6835242c59e9a613a1f4accdc63ae2c949831689c04d1590e8e999"
 }
